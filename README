@@ -1,0 +1,79 @@
+program                   small       large
+3sum                      512msecs    1188msecs
+3SumClosest               513msecs    560msecs
+4sum
+Add Binary                484msecs    696msecs
+AddTwoNumber              552msecs    832msecs
+anagram                   608msecs    1064msecs
+Balanced Binary Tree      568msecs    644msecs
+Best Time to Stock        544msecs    584msecs
+Best Time Stock 2         508msecs    1092msecs
+Best Time Stock 3         532msecs
+Binary Tree Inorder       604msecs    640msecs
+Binary Tree Level         552msecs    720msecs
+Binary Tree Level 2       584msecs    724msecs
+Binary Tree Max Sum       564msecs    792msecs
+Binary Tree Zigzag        580msecs    572msecs
+Climbing Stairs           492msecs    516msecs
+Combination Sum           552msecs    768msecs
+Combination Sum 2         560msecs    776msecs
+Combinations              540msecs    628msecs
+Inorder Postorder         580msecs    952msecs
+Preorder Inorder          512msecs    996msecs
+*ContainerWithMostWater   540msecs    548msecs
+ValidPalindrome           492msecs    588msecs
+Triangle                  484msecs    576msecs
+*Pascal's Triangle 2      524msecs    512msecs
+Pascal's Triangle         492msecs    568msecs
+Populating next pointer   540msecs    652msecs
+Populating next pointer 2 576msecs    732msecs
+Distinct Subsequences     564msecs 
+Flatten Binary Tree       540msecs    704msecs
+Path Sum 2                596msecs    804msecs
+Path Sum                  548msecs    740msecs
+Two Sum                   556msecs    584msecs
+Median of Two Arrays      928msecs    1016msecs
+*LongestSubstringNoRepeat 528msecs    704msecs
+LongestPalindromicString  472msecs    540msecs           
+ZigZag Conversion         552msecs    1376msecs
+Reverse Integer           524msecs    768msecs
+String to Integer         500msecs    768msecs
+Palindrome Number         532msecs    1380msecs
+Integer to Roman          548msecs    936msecs
+Roman To Integer          524msecs    848msecs
+LongestCommonPrefix       572msecs    708msecs
+LetterCombinationPhone    488msecs    544msecs
+RemoveNthNodeFromEnd      524msecs    600msecs
+** Using Sentinel
+Valid Parentheses         500msecs    508msecs
+Generate Parenthesis      544msecs    592msecs
+Merge K Sorted Lists      476msecs    664msecs
+Swap Nodes In Pairs       580msecs    524msecs
+** Classic. How about swap using n space (stack) or can modify value?
+Reverse Nodes In K Groups 508msecs    624msecs
+Remove Element            492msecs    568msecs
+Implement StrStr()        600msecs    664msecs
+Substring Concatenation   608msecs    1772msecs
+SearchInRotatedArray      516ms       604ms
+SearchForARange           536ms       560ms
+SearchInsert              516ms       528ms
+isValidSudoku             attempted
+countAndSay               532ms       800ms
+FirstMissingPositive      520ms       584ms
+TrappingRainWater         520ms       564ms
+multiply                  508ms       688ms
+Wildcard Matching         660ms       failed
+JumpGame2                 500ms       580ms
+Rotate Image              552ms       536ms
+pow(x, n)                 620ms       916ms
+nQueen                    632ms       800ms
+nQueen2                   under construction
+WordLadder                580ms       1784ms
+Maximum Subarray          492ms       536ms
+Spiral Matrix             516ms       556ms
+Jump Game                 512ms       584ms
+Merge Intervals           560ms       668ms
+Insert Interval           576ms       740ms
+Length of Last word       476ms       484ms
+Spiral Matrix II          532ms       492ms
+ 

@@ -1,0 +1,3 @@
+It is possible to make if condition out of index Array. like this:
+if (index < num.length-1 && num[index] == num[index+1])
+for (String j: result) {result.add(j);} is problematic. infinite loop

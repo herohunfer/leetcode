@@ -76,4 +76,5 @@ Merge Intervals           560ms       668ms
 Insert Interval           576ms       740ms
 Length of Last word       476ms       484ms
 Spiral Matrix II          532ms       492ms
+Rotate List               588ms       728ms
  

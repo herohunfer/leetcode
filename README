@@ -77,4 +77,8 @@ Insert Interval           576ms       740ms
 Length of Last word       476ms       484ms
 Spiral Matrix II          532ms       492ms
 Rotate List               588ms       728ms
- 
+Permutation Sequence      496ms       560ms
+Unique Paths              520ms       536ms
+Unique Paths II           512ms       612ms
+Minimum Path Sum          472ms       552ms
+Merge Two Sorted Lists    572ms       712ms

@@ -82,3 +82,7 @@ Unique Paths              520ms       536ms
 Unique Paths II           512ms       612ms
 Minimum Path Sum          472ms       552ms
 Merge Two Sorted Lists    572ms       712ms
+Add Binary                556ms       676ms
+Valid Number              504ms       704ms
+Plus One                  556ms       584ms
+Text Justification        624ms       692ms

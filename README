@@ -86,3 +86,6 @@ Add Binary                556ms       676ms
 Valid Number              504ms       704ms
 Plus One                  556ms       584ms
 Text Justification        624ms       692ms
+Sqrt(x)                   692ms       1004ms
+Simplify Path             572ms       716ms
+

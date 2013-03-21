@@ -88,4 +88,13 @@ Plus One                  556ms       584ms
 Text Justification        624ms       692ms
 Sqrt(x)                   692ms       1004ms
 Simplify Path             572ms       716ms
-
+Set Matrix Zeroes         524ms       644ms
+Search a 2D matrix        480ms       576ms
+Sort Colors               492ms       588ms
+Minimum Window SubString  PASS
+Subsets                   500ms       588ms
+Word Search               668ms       1680ms
+Remove Duplicates arrayII 512ms       692ms
+Remove Duplicate list     552ms       684ms
+Remove Duplicate List II  556ms       692ms
+SearchInRotatedArray II   584ms       568ms

@@ -98,3 +98,9 @@ Remove Duplicates arrayII 512ms       692ms
 Remove Duplicate list     552ms       684ms
 Remove Duplicate List II  556ms       692ms
 SearchInRotatedArray II   584ms       568ms
+LargestRectangleHistogram 512ms       Too many levels
+Maximal Rectangle         PASS
+Patition List             520ms       708ms
+Scramble String           564ms       720ms
+Merge Sorted Array        504ms       584ms
+

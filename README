@@ -103,4 +103,8 @@ Maximal Rectangle         PASS
 Patition List             520ms       708ms
 Scramble String           564ms       720ms
 Merge Sorted Array        504ms       584ms
-
+Gray Code                 496ms       672ms
+Decode Ways               512ms       540ms
+Reverse Linked List 2     528ms       616ms
+Restore IP addresses      608ms       624ms
+Unique BST

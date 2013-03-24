@@ -107,4 +107,8 @@ Gray Code                 496ms       672ms
 Decode Ways               512ms       540ms
 Reverse Linked List 2     528ms       616ms
 Restore IP addresses      608ms       624ms
-Unique BST
+Unique BST                512ms       500ms
+Unique BST 2              588ms       672ms
+Interleaving String       572ms       608ms
+Validate BST              536ms       672ms
+

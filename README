@@ -111,4 +111,20 @@ Unique BST                512ms       500ms
 Unique BST 2              588ms       672ms
 Interleaving String       572ms       608ms
 Validate BST              536ms       672ms
-
+Recover BST               584ms       1176ms
+Same Tree                 560ms       600ms
+Symmetric Tree            576ms       736ms
+Maximum Depth of BTree    464ms       596ms
+Convert Sort Array to BST 496ms       636ms
+Convert Sort List to BST  544ms       748ms
+Minimum Depth of BTree    484ms       600ms
+Binary Tree Maximum Path Sum    check "crack the code interview"
+Populating Next Right 
+Populating Next Right 2
+Word Ladder
+Word Ladder 2
+Longest Consecutive Sequence
+Sum Root to Leaf Numbers
+Surrounded Regions
+Palindrome Partitioning
+Palindrome Partitioning 2 

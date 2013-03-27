@@ -119,12 +119,12 @@ Convert Sort Array to BST 496ms       636ms
 Convert Sort List to BST  544ms       748ms
 Minimum Depth of BTree    484ms       600ms
 Binary Tree Maximum Path Sum    check "crack the code interview"
-Populating Next Right 
-Populating Next Right 2
-Word Ladder
-Word Ladder 2
-Longest Consecutive Sequence
-Sum Root to Leaf Numbers
-Surrounded Regions
+Populating Next Right     588ms       624ms
+Populating Next Right 2   540ms       756ms
+Word Ladder               544ms       1972ms
+Word Ladder 2             592ms       fail at large  
+Longest Consecutive       500ms       692ms
+Sum Root to Leaf Numbers  552ms       608ms
+Surrounded Regions        572ms       768ms
 Palindrome Partitioning
 Palindrome Partitioning 2 

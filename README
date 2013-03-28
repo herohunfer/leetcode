@@ -126,5 +126,5 @@ Word Ladder 2             592ms       fail at large
 Longest Consecutive       500ms       692ms
 Sum Root to Leaf Numbers  552ms       608ms
 Surrounded Regions        572ms       768ms
-Palindrome Partitioning
-Palindrome Partitioning 2 
+Palindrome Partitioning   536ms       804ms
+Palindrome Partitioning 2 508ms       1340ms 
